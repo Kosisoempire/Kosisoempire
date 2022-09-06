@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kosisoempire
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...any language at all
+- 💞️ I’m looking to forward collaborate on ...any language at all
 - 📫 How to reach me ... +2347048278700 for WhatsApp🤞🤞
 
 <!---
